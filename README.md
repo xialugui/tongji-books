@@ -9,7 +9,8 @@
             2. [论文写作与学术规范][论文写作与学术规范]
             3. [数值分析][数值分析]
             4. [应用统计][应用统计]
-
+            5. [工程伦理学][工程伦理学]
+        2. 专业课
 
 [新时代中国特色社会主义理论与实践]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf
 
@@ -18,3 +19,5 @@
 [数值分析]: http://s0swdr83v.hd-bkt.clouddn.com/%E7%8E%B0%E4%BB%A3%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%20%E7%AC%AC2%E7%89%88.pdf
 
 [应用统计]: http://s0swdr83v.hd-bkt.clouddn.com/%E5%BA%94%E7%94%A8%E7%BB%9F%E8%AE%A1.pdf
+
+[工程伦理学]: http://s0swdr83v.hd-bkt.clouddn.com/%E5%B7%A5%E7%A8%8B%E4%BC%A6%E7%90%86%E5%AD%A6.pdf
