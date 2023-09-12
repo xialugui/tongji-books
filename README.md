@@ -29,7 +29,7 @@
 
 [芝加哥大学论文写作指南]: http://s0swdr83v.hd-bkt.clouddn.com/%E8%8A%9D%E5%8A%A0%E5%93%A5%E5%A4%A7%E5%AD%A6%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97.pdf
 
-[A Scientific Approach to Scientific Writing]: http://s0swdr83v.hd-bkt.clouddn.com/A%20Scientific%20Approachto%20Scientific%20Writing.pdf
+[A Scientific Approach to Scientific Writing]: http://s0swdr83v.hd-bkt.clouddn.com/A%20Scientific%20Approach%20to%20Scientific%20Writing.pdf
 
 [Handbook of Academic Integrity]: http://s0swdr83v.hd-bkt.clouddn.com/Handbook%20of%20Academic%20Integrity.pdf
 
