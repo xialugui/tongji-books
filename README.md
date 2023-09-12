@@ -9,7 +9,7 @@
 ### pdf链接
 
 仓库只记录pdf链接，不存放实际pdf文件，请各位同学将pdf
-托管至公开的具有半永久或永久的介质。
+托管至公开的具有半永久或永久存储能力的介质。
 
 ### 贡献方法
 
@@ -48,6 +48,14 @@ pdf文件托管在免费的对象存储提供商，故存在流量限制。
                 * [Machine Learning][Machine Learning]
             2. 模式识别
                 * [模式分类][模式分类]
+            3. 人工智能
+                * [人工智能：一种现代的方法][人工智能：一种现代的方法]
+            4. 信息论理论基础
+                * [Elements of Information Theory][Elements of Information Theory]
+
+[人工智能：一种现代的方法]: http://s0swdr83v.hd-bkt.clouddn.com/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%8E%B0%E4%BB%A3%E7%9A%84%E6%96%B9%E6%B3%95.pdf
+
+[Elements of Information Theory]: http://s0swdr83v.hd-bkt.clouddn.com/Elements%20of%20Information%20Theory.pdf
 
 [模式分类]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%A8%A1%E5%BC%8F%E5%88%86%E7%B1%BB.pdf
 
