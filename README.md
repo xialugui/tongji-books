@@ -32,7 +32,7 @@
 
 [机器学习]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf
 
-[机器学习原理]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%20%E5%8E%9F%E7%90%86%E3%80%81%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8.pdf
+[机器学习原理、算法与应用]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%20%E5%8E%9F%E7%90%86%E3%80%81%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8.pdf
 
 [Machine Learning]: http://s0swdr83v.hd-bkt.clouddn.com/Machine%20learning_Thomas%20Mitchell.pdf
 
