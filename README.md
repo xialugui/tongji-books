@@ -8,6 +8,7 @@
             1. [新时代中国特色社会主义理论与实践][新时代中国特色社会主义理论与实践]
             2. 论文写作与学术规范
                 * [高质量SCI论文入门必备——从选题到发表][高质量SCI论文入门必备——从选题到发表]
+                * [科学研究方法与学术论文写作][科学研究方法与学术论文写作]
                 * [芝加哥大学论文写作指南][芝加哥大学论文写作指南]
                 * [A Scientific Approach to Scientific Writing][A Scientific Approach to Scientific Writing]
                 * [Handbook of Academic Integrity][Handbook of Academic Integrity]
@@ -19,6 +20,7 @@
 [新时代中国特色社会主义理论与实践]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf
 
 [高质量SCI论文入门必备——从选题到发表]: http://s0swdr83v.hd-bkt.clouddn.com/%E9%AB%98%E8%B4%A8%E9%87%8FSCI%E8%AE%BA%E6%96%87%E5%85%A5%E9%97%A8%E5%BF%85%E5%A4%87%E2%80%94%E2%80%94%E4%BB%8E%E9%80%89%E9%A2%98%E5%88%B0%E5%8F%91%E8%A1%A8.pdf
+[科学研究方法与学术论文写作]: http://s-sh-7539-tongji-books.oss.dogecdn.com/%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C.pdf
 
 [芝加哥大学论文写作指南]: http://s0swdr83v.hd-bkt.clouddn.com/%E8%8A%9D%E5%8A%A0%E5%93%A5%E5%A4%A7%E5%AD%A6%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97.pdf
 
