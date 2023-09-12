@@ -22,10 +22,24 @@
             7. 英语
                 * [专业学位研究生英语][专业学位研究生英语]
         2. 专业课
+            1. 机器学习
+                * [统计学习方法][统计学习方法]
+                * [机器学习（西瓜书）][机器学习]
+                * [机器学习原理、算法与应用][机器学习原理、算法与应用]
+                * [Machine Learning][Machine Learning]
+
+[统计学习方法]: http://s0swdr83v.hd-bkt.clouddn.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf
+
+[机器学习]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf
+
+[机器学习原理]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%20%E5%8E%9F%E7%90%86%E3%80%81%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8.pdf
+
+[Machine Learning]: http://s0swdr83v.hd-bkt.clouddn.com/Machine%20learning_Thomas%20Mitchell.pdf
 
 [专业学位研究生英语]: http://s0swdr83v.hd-bkt.clouddn.com/%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E8%8B%B1%E8%AF%AD.pdf
 
 [工程硕士信息检索实用教程]: http://s0swdr83v.hd-bkt.clouddn.com/%E5%B7%A5%E7%A8%8B%E7%A1%95%E5%A3%AB%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B.pdf
+
 [知识产权法学]: http://s0swdr83v.hd-bkt.clouddn.com/%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E6%B3%95%E5%AD%A6.pdf
 
 [新时代中国特色社会主义理论与实践]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf
