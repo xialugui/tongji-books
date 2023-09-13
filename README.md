@@ -1,7 +1,7 @@
 # 同济大学教科书电子版仓库
 
 ## 声明
-🤣pdf链接替换中，如急需pdf请联系微信：`xialugui`
+
 ❌仅供学习交流，严禁用于商业用途。
 
 ## 引言
@@ -57,39 +57,39 @@ pdf文件托管在免费的对象存储提供商，故存在流量限制。
             4. 信息论理论基础
                 * [Elements of Information Theory][Elements of Information Theory]
 
-[人工智能：一种现代的方法]: http://s0swdr83v.hd-bkt.clouddn.com/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%8E%B0%E4%BB%A3%E7%9A%84%E6%96%B9%E6%B3%95.pdf
+[人工智能：一种现代的方法]: https://kdocs.cn/l/chwPnSfs6p34
 
-[Elements of Information Theory]: http://s0swdr83v.hd-bkt.clouddn.com/Elements%20of%20Information%20Theory.pdf
+[Elements of Information Theory]: https://kdocs.cn/l/cpRWKOTRuYT8
 
-[模式分类]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%A8%A1%E5%BC%8F%E5%88%86%E7%B1%BB.pdf
+[模式分类]: https://kdocs.cn/l/ciZviazbvRyX
 
-[统计学习方法]: http://s0swdr83v.hd-bkt.clouddn.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf
+[统计学习方法]: https://kdocs.cn/l/cfMYuuONsCCr
 
-[机器学习]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf
+[机器学习]: https://kdocs.cn/l/cl49PdY1BstI
 
-[机器学习原理、算法与应用]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%20%E5%8E%9F%E7%90%86%E3%80%81%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8.pdf
+[机器学习原理、算法与应用]: https://kdocs.cn/l/cbiyPK1Qmdx3
 
-[Machine Learning]: http://s0swdr83v.hd-bkt.clouddn.com/Machine%20learning_Thomas%20Mitchell.pdf
+[Machine Learning]: https://kdocs.cn/l/cgXqifgsw5hd
 
-[专业学位研究生英语]: http://s0swdr83v.hd-bkt.clouddn.com/%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E8%8B%B1%E8%AF%AD.pdf
+[专业学位研究生英语]: https://kdocs.cn/l/cmn4OVMqjMFI
 
-[工程硕士信息检索实用教程]: http://s0swdr83v.hd-bkt.clouddn.com/%E5%B7%A5%E7%A8%8B%E7%A1%95%E5%A3%AB%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B.pdf
+[工程硕士信息检索实用教程]: https://kdocs.cn/l/chzritP1T1C1
 
-[知识产权法学]: http://s0swdr83v.hd-bkt.clouddn.com/%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E6%B3%95%E5%AD%A6.pdf
+[知识产权法学]: https://kdocs.cn/l/ccrUpwkYF84x
 
-[新时代中国特色社会主义理论与实践]: http://s0swdr83v.hd-bkt.clouddn.com/%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf
+[新时代中国特色社会主义理论与实践]: https://kdocs.cn/l/cgZUrGSZQztW
 
-[高质量SCI论文入门必备——从选题到发表]: http://s0swdr83v.hd-bkt.clouddn.com/%E9%AB%98%E8%B4%A8%E9%87%8FSCI%E8%AE%BA%E6%96%87%E5%85%A5%E9%97%A8%E5%BF%85%E5%A4%87%E2%80%94%E2%80%94%E4%BB%8E%E9%80%89%E9%A2%98%E5%88%B0%E5%8F%91%E8%A1%A8.pdf
+[高质量SCI论文入门必备——从选题到发表]: https://kdocs.cn/l/cos4VwlejXO1
 
-[科学研究方法与学术论文写作]: http://s-sh-7539-tongji-books.oss.dogecdn.com/%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C.pdf
+[科学研究方法与学术论文写作]: https://kdocs.cn/l/ccllWyAAJ21Y
 
-[芝加哥大学论文写作指南]: http://s0swdr83v.hd-bkt.clouddn.com/%E8%8A%9D%E5%8A%A0%E5%93%A5%E5%A4%A7%E5%AD%A6%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97.pdf
+[芝加哥大学论文写作指南]: https://kdocs.cn/l/ccfUD8xWZzeE
 
-[A Scientific Approach to Scientific Writing]: http://s0swdr83v.hd-bkt.clouddn.com/A%20Scientific%20Approach%20to%20Scientific%20Writing.pdf
+[A Scientific Approach to Scientific Writing]: https://kdocs.cn/l/cfJVEHb331UW
 
-[Handbook of Academic Integrity]: http://s0swdr83v.hd-bkt.clouddn.com/Handbook%20of%20Academic%20Integrity.pdf
+[Handbook of Academic Integrity]: https://kdocs.cn/l/cbLtoUujQ3Mf
 
-[数值分析]: http://s0swdr83v.hd-bkt.clouddn.com/%E7%8E%B0%E4%BB%A3%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%20%E7%AC%AC2%E7%89%88.pdf
+[数值分析]: https://kdocs.cn/l/cbKXjpXV6pWr
 
 [应用统计]: https://kdocs.cn/l/cprlvJXVBjye
 
