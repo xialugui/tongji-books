@@ -91,6 +91,6 @@ pdf文件托管在免费的对象存储提供商，故存在流量限制。
 
 [数值分析]: http://s0swdr83v.hd-bkt.clouddn.com/%E7%8E%B0%E4%BB%A3%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%20%E7%AC%AC2%E7%89%88.pdf
 
-[应用统计]: http://s0swdr83v.hd-bkt.clouddn.com/%E5%BA%94%E7%94%A8%E7%BB%9F%E8%AE%A1.pdf
+[应用统计]: https://kdocs.cn/l/cprlvJXVBjye
 
-[工程伦理学]: http://s0swdr83v.hd-bkt.clouddn.com/%E5%B7%A5%E7%A8%8B%E4%BC%A6%E7%90%86%E5%AD%A6.pdf
+[工程伦理学]: https://kdocs.cn/l/cbLEUYTMmKPV
