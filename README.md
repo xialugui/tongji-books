@@ -54,10 +54,24 @@
                 * [模式分类][模式分类]
             3. 人工智能
                 * [人工智能：一种现代的方法][人工智能：一种现代的方法]
+                * [人工智能：现代方法][人工智能：现代方法]
             4. 信息论理论基础
                 * [Elements of Information Theory][Elements of Information Theory]
+            5. 软件工程
+                * [软件工程导论（第六版）][软件工程导论（第六版）]
+            6. 计算机网络安全
+                * [计算机网络][计算机网络]
+                * [网络安全基础：应用与标准（第五版）][网络安全基础：应用与标准（第五版）]
 
 [人工智能：一种现代的方法]: https://kdocs.cn/l/chwPnSfs6p34
+
+[人工智能：现代方法]: https://kdocs.cn/l/cfmx4xuJNM6o
+
+[软件工程导论（第六版）]: https://kdocs.cn/l/cfQC0Dg6qoqA
+
+[计算机网络]: https://kdocs.cn/l/cagYgWImfkVl
+
+[网络安全基础：应用与标准（第五版）]:https://kdocs.cn/l/cl9W0QADGJMN
 
 [Elements of Information Theory]: https://kdocs.cn/l/cpRWKOTRuYT8
 
