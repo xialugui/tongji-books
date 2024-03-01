@@ -71,6 +71,14 @@
             10. 传感器与检测技术
                 * [传感器与检测技术（徐科军）][传感器与检测技术（徐科军）]
                 * [传感器与自动检测技术][传感器与自动检测技术]
+            11. MATLAB\Simulink通信系统建模与仿真
+                * [MATLAB\Simulink通信系统建模与仿真][MATLAB\Simulink通信系统建模与仿真]
+            12. 大功率变频器及交流传动
+                * [大功率变频器及交流传动][大功率变频器及交流传动]
+
+[大功率变频器及交流传动]: https://kdocs.cn/l/cbjXfKzNbuhR
+
+[MATLAB\Simulink通信系统建模与仿真]: https://kdocs.cn/l/cksm3bseIs6V
 
 [传感器与自动检测技术]: https://kdocs.cn/l/ch8M1Ze5Wdmw
 
