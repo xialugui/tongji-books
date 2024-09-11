@@ -77,7 +77,15 @@
                 * [MATLAB\Simulink通信系统建模与仿真][MATLAB\Simulink通信系统建模与仿真]
             12. 大功率变频器及交流传动
                 * [大功率变频器及交流传动][大功率变频器及交流传动]
-           
+            13. 统计信号处理
+                * [统计信号处理：医学信号分析与处理][统计信号处理：医学信号分析与处理]
+            14. 数据挖掘
+               * [数据挖掘：概念与技术][数据挖掘：概念与技术]
+
+[数据挖掘：概念与技术]: https://kdocs.cn/l/ca1l4lwfuNEK
+
+[统计信号处理：医学信号分析与处理]: https://kdocs.cn/l/cro2OzaHGVsf
+
 [模拟电子技术基础]: https://kdocs.cn/l/coVXSz6T1wFg
 
 [传感与检测技术]: https://kdocs.cn/l/cj4lSFwkgDyU
